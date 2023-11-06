@@ -1,6 +1,5 @@
 # Task App
 
-![Task App](task-app-screenshot.png)
 
 The Task App is a web application that allows you to manage your tasks, mark them as completed, and keep track of your to-do list. It is built using Express, MongoDB, and React. This README provides a comprehensive guide to the Task App.
 
