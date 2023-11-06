@@ -1,6 +1,5 @@
 # Task App
 
-![Task App](task-app-screenshot.png)
 
 This Task App is a web application that allows to manage tasks, mark them as completed, and keep track of your task list. It is built using Express, MongoDB, and React. 
 
@@ -15,7 +14,7 @@ This Task App is a web application that allows to manage tasks, mark them as com
 
 ## Features
 
-- **Create New Task:** You can add new tasks with titles, descriptions, and set their completion status.
+- **Create New Task:** You can add new tasks with titles, and descriptions, and set their completion status.
 
 - **Task List:** You can view a list of tasks with their titles, descriptions, and completion status.
 
