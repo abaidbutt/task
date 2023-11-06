@@ -1,24 +1,29 @@
 # Task App
 
+![Task App](task-app-screenshot.png)
 
-The Task App is a web application that allows you to manage your tasks, mark them as completed, and keep track of your to-do list. It is built using Express, MongoDB, and React. This README provides a comprehensive guide to the Task App.
+This Task App is a web application that allows to manage tasks, mark them as completed, and keep track of your task list. It is built using Express, MongoDB, and React. 
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Prerequisites](#prerequisites)
+  - [Installation Steps](#installation-steps)
+  - [Clone](#clone)
 
 ## Features
+
+- **Create New Task:** You can add new tasks with titles, descriptions, and set their completion status.
 
 - **Task List:** You can view a list of tasks with their titles, descriptions, and completion status.
 
 - **Mark as Completed:** You can mark a task as completed by clicking on the tick icon next to it.
 
-- **Create New Task:** You can add new tasks with titles, descriptions, and set their completion status.
+- **Delete Task:** You can delete a task by clicking on the delete button end of the task.
+
+
 
 ## Technologies Used
 
@@ -32,7 +37,17 @@ The Task App is a web application that allows you to manage your tasks, mark the
 
 To run the Task App on your local machine, follow these steps:
 
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [npm](https://www.npmjs.com/) - Node Package Manager
+- [MongoDB](https://www.mongodb.com/) - NoSQL database (for database setup)
+
+### Installation Steps
+
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/task-app.git
+   git clone https://github.com/yourusername/task.git
